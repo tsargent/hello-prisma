@@ -1,4 +1,4 @@
-## Hello prisma
+## Hello Prisma
 
 Demo of how to get Prisma up and running with a postgres database using docker.
 
